@@ -1,4 +1,4 @@
-Q1.  Wap to display the employee details of 5 employees using scanner class.
+//Q1.  Wap to display the employee details of 5 employees using scanner class.
 
 import java.util.Scanner;
 
